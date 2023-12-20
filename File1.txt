@@ -1,0 +1,2 @@
+This is External Lab Of devops lab
+Edited via VI Editor
